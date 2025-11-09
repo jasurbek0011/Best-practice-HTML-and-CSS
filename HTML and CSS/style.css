@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+}
+
+html {
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+
+main {
+    margin: 100px 150px;
+    padding: 50px 100px;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    border-radius: 30px;
+}
+
+.foot {
+    margin-bottom: 40px;
+}
+h1{
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 40px;
+    color: #000000;
+    cursor: pointer;
+}
+
+h3 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-weight: 550;
+    color: #000000;
+    cursor: pointer;
+}
+
+
+dl {
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+dt {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #0A0213;
+    cursor: pointer;
+}
+
+dd {
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 16px;
+    font: 500;
+    color: #42424280;
+    cursor: pointer;
+
+}
+
+li {
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 16px;
+    font: 500;
+    color: #42424280;
+    cursor: pointer;
+
+}
